@@ -15,7 +15,6 @@ to the average consumer of the Internet.
 **Students will be able to**:
 - Explain what is meant by "web services"
 - Name some components of web services and the problems they solve
-- Name some providers of web services
 
 ### Specific Things To Teach
 - Things about the things
@@ -59,14 +58,6 @@ We may eventually get a list that looks like:
 - A system that can read messages out the the queue and send them into another
   system
 
-### Mini Lesson: What languages do machines speak?
-
-An introduction to:
-- JSON
-- XML
-- TCP
-- HTML
-
 ### Common Mistakes / Misconceptions
 
 This is something that students might not realize or might assume at first.
@@ -76,7 +67,7 @@ Make sure they avoid this: thing
 
 ### Guided Practice
 
-Have the students work with you as you do something. 
+Have the students work with you as you do something.
 
 
 ### Independent Practice
